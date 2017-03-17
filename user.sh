@@ -3,7 +3,7 @@
 _USERNAME=$1
 _LOGFILE=/var/log/adduser.log
 _STATUS=ERROR
-_COMPANY_NAME=StarNet
+_COMPANY_NAME=MyCompany
 
 gooduserlog(){
 	_USERNAME=$1
